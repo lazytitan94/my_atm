@@ -3,14 +3,14 @@
 
 int main()
 {
-    float deposit, withdraw, d;
+    float deposit, withdraw;
     float balance = 0;
     int pin, pinat;
     int choice;
     char cont ='y';
 
     printf("************************\n");
-    printf("**Welcome to eCorp ATM**\n");
+    printf("**Welcome to eCorp ATM**\n"); // evlepa Mr.Robot otan to egrafa
     printf("************************\n");
 
 
